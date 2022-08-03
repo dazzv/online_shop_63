@@ -5,7 +5,7 @@
         <ul class="open_cart" @click="openCart()">
           <li><span class="logo_cart"></span></li>
           <li class="cart_name"><span>Корзина</span></li>
-          <li><span class="cart_length">1</span></li>
+          <li><span v-if='cartProducts.length' class="cart_length">{{cartProducts.length}}</span></li>
         </ul>
       </div>
   </header>
