@@ -1,5 +1,9 @@
 # online_shop
+
+
 #site: https://shop63.netlify.app
+
+
 #figma_maket: https://www.figma.com/file/FrMAEM40xB4ea4h4RHjo6E/Untitled?node-id=1%3A279
 
 ## Project setup
