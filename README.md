@@ -1,5 +1,11 @@
 # online_shop
 
+![online-shop image](https://raw.githubusercontent.com/dazzv/online_shop_63/main/shop.PNG) 
+
+# Vuedality(Валидация номера и почты)
+
+![online-shop vuedality](https://raw.githubusercontent.com/dazzv/online_shop_63/main/shop2.PNG) 
+
 ## Project setup
 ```
 npm install
